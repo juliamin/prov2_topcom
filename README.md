@@ -2,7 +2,7 @@
 
 Escrever um servidor seguro que utilize certificados digitais.
 
-#Como rodar
+#Instruções
 Execute o servidor em python através do comando:
   python server.py
 
